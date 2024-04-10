@@ -162,3 +162,5 @@ cython_debug/
 New folder
 research
 *.ipynb
+artifacts/*
+app1.py
